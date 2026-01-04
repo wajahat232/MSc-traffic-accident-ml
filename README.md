@@ -48,8 +48,6 @@ publicly available from the UK Department for Transport.
 
 Due to the large size of the dataset, it is **not included in this repository**.
 
-### Dataset Source
-https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-accidents-safety-data
 
 ### How to Use the Dataset
 1. Download the STATS19 accident data from the link above.
